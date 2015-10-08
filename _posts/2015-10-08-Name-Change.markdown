@@ -1,7 +1,8 @@
 ---
-Title: Name Change
-Date: 2015-10-08
-
+layout: post
+title: Name Change
+date: 2015-10-08
+categories: name brand url
 ---
 
  At our second virtual meeting, a question arose about the perception
