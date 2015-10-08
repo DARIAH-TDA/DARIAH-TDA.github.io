@@ -1,3 +1,3 @@
-## DARIAH NLP WG
+## DARIAH TDA WG
 
-Our Web Presence
+Jekyll-based Github for the DARIAH Text & Data Analytics Working group

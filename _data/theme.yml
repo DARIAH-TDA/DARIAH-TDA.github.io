@@ -5,13 +5,13 @@ highlight_color: '#192C58'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: DARIAH-NLP 
-  googlegroups: nlpwg
+  github: DARIAH-TDA
+  googlegroups: dariahtdawg 
   #bitbucket: philipj
   #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
-  twitter: dariahnlpwg
+  twitter: dariahtdawg
   #facebook: zuck
   #tumblr: animalygifs
   #linkedin: philipjagielski
@@ -20,7 +20,7 @@ social:
   #flickr: johndoe
 
 # "Hi, I'm _______"
-name: DARIAH NLP Working Group
+name: DARIAH TDA Working Group
 email: Alexander.OConnor@dcu.ie 
 tagline: "Digital Humanities & Quantitative Methods, including Natural Language Processing"
 
