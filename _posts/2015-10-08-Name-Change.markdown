@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Name Change
+title: "Name Change"
 date: 2015-10-08
 categories: name brand url
 ---
