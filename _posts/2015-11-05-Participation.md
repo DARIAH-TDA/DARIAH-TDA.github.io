@@ -28,7 +28,7 @@ in your email*
 ## Timetable
 
 | Time  | 14<sup>th</sup> December   | 15<sup>th</sup> December |
-| ----- | -------------------------- | ------------------------ |
+|:------|:---------------------------|:-------------------------|
 | 09:30 | Arrival &amp; Registration | Talk                     |
 | 10:00 | Keynote                    | Talk                     |
 | 10:30 | Keynote                    | Talk                     |
@@ -46,7 +46,6 @@ in your email*
 
 ## Talk Abstracts
 
+
+
 ## Keynote: Dr. Sharon O&apos;Brien, ADAPT, SALIS, DCU
-
-
-
