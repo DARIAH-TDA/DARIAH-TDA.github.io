@@ -29,17 +29,17 @@ in your email*
 
 | Time  | 14<sup>th</sup> December   | 15<sup>th</sup> December |
 |:------|:---------------------------|:-------------------------|
-| 09:30 | Arrival &amp; Registration | Talk                     |
+| 09:30 | Arrival &amp; Registration | Eder/Piasecki/Walkowiak  |
 | 10:00 | Keynote                    | Talk                     |
 | 10:30 | Keynote                    | Talk                     |
 | 11:00 | Coffee                     | Coffee                   |
-| 11:30 | Talk                       | Talk                     |
-| 12:00 | Talk                       | Talk                     |
-| 12:30 | Talk                       | Concluding Remarks       |
+| 11:30 | Maryl/Piasecki/Młynarczyk  | Talk                     |
+| 12:00 | Riddell/Dalen-Oskam        | Talk                     |
+| 12:30 | Munelly et al.             | Concluding Remarks       |
 | 13:00 | Lunch                      | Lunch &amp; Departure    |
-| 14:00 | Talk                       |                          |
-| 14:30 | Talk                       |                          |
-| 15:00 | Talk                       |                          |
+| 14:00 | Schnober/Gurevych          |                          |
+| 14:30 | Grefenstette/Muchemi       |                          |
+| 15:00 | Coffee                     |                          |
 | 15:30 | Talk                       |                          |
 | 16:00 | Panel Discussion           |                          |
 | 17:00 | End of Day 1               |                          |
