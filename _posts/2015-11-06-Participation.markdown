@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Expert Workshop on Topic Models and Corpus Analysis: Call for ParticipatioN"
+categories: meeting activity workshop
+---
+
 # Expert Workshop on Topic Models and Corpus Analysis: Call for Participation
 ## Organised by DARIAH Text &amp; Data Analytics Working Group (TDAWG)
 
