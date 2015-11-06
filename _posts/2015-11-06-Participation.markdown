@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Expert Workshop on Topic Models and Corpus Analysis: Call for ParticipatioN"
+title:  "Expert Workshop on Topic Models and Corpus Analysis: Call for Participation"
 categories: meeting activity workshop
 ---
 
-# Expert Workshop on Topic Models and Corpus Analysis: Call for Participation
 ## Organised by DARIAH Text &amp; Data Analytics Working Group (TDAWG)
 
 ## Date
 
-December 14th (full-day) and 15th (half-day) 2015
+December 14<sup>th</sup> (full-day) and 15<sup>th</sup> (half-day) 2015
 
 ## Venue
 
@@ -59,4 +58,6 @@ in your email*
 * Gregory Grefenstette and Lawrence Muchemi [Extracting Hierarchical Topic Models from the Web for Improving Digital Archive Access](../assets/cfp/TopicModelExperience.pdf)
 * Maciej Eder, Maciej Piasecki, and Tomasz Walkowiak [WebSty – an Open Stylometric System based on Multilevel Text Analysis](../assets/cfp/WebSty-TDA15.pdf)
 
-## Keynote: Dr. Sharon O&apos;Brien, ADAPT, SALIS, DCU
+## Keynote
+
+### Dr. Sharon O&apos;Brien, ADAPT, SALIS, DCU
