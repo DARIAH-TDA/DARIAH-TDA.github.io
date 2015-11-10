@@ -51,13 +51,40 @@ in your email*
 
 ## Talk Abstracts
 
-* Allen Riddell and Karina van Dalen-Oskam [Reader roles and the literary field: analyzing the results of a large survey](../assets/cfp/Abstract_Dublin_Allen_Karina.pdf)
+* Allen Riddell and Karina van Dalen-Oskam [Reader roles and the literary field: analyzing the results of a large survey]({{ site.baseurl}}assets/cfp/Abstract_Dublin_Allen_Karina.pdf)
 * Gary Munnelly​, Alexander O’Connor​, Jennifer Edmond​, and Séamus Lawless [Finding Meaning in the Chaos. Establishing Corpus Size Limits for Unsupervised Semantic Linking](../assets/cfp/DARIAHSubmission.pdf)
-* Carsten Schnober and Iryna Gurevych [Extrinsic Evaluation of Topic Models on Unknown Corpora](../assets/cfp/evaluating_tms.pdf)
-* Maciej Maryl, Maciej Piasecki, and Ksenia Młynarczyk [Text Clustering Methods in Literary Analysis of Weblog Genres](../assets/cfp/Maryl_Piasecki_Mlynarczyk_Blogs_TDA.pdf)
-* Gregory Grefenstette and Lawrence Muchemi [Extracting Hierarchical Topic Models from the Web for Improving Digital Archive Access](../assets/cfp/TopicModelExperience.pdf)
-* Maciej Eder, Maciej Piasecki, and Tomasz Walkowiak [WebSty – an Open Stylometric System based on Multilevel Text Analysis](../assets/cfp/WebSty-TDA15.pdf)
+* Carsten Schnober and Iryna Gurevych [Extrinsic Evaluation of Topic Models on Unknown Corpora]({{ site.baseurl}}assets/cfp/evaluating_tms.pdf)
+* Maciej Maryl, Maciej Piasecki, and Ksenia Młynarczyk [Text Clustering Methods in Literary Analysis of Weblog Genres]({{ site.baseurl}}assets/cfp/Maryl_Piasecki_Mlynarczyk_Blogs_TDA.pdf)
+* Gregory Grefenstette and Lawrence Muchemi [Extracting Hierarchical Topic Models from the Web for Improving Digital Archive Access]({{ site.baseurl}}assets/cfp/TopicModelExperience.pdf)
+* Maciej Eder, Maciej Piasecki, and Tomasz Walkowiak [WebSty – an Open Stylometric System based on Multilevel Text Analysis]({{ site.baseurl}}assets/cfp/WebSty-TDA15.pdf)
 
 ## Keynote
 
-### Dr. Sharon O&apos;Brien, ADAPT, SALIS, DCU
+### Machine Translation and Cognition: Perception, Productivity and the Professional
+
+Recent advances in data driven machine translation have resulted in
+considerable levels of deployment in commercial translation scenarios, with
+reasonable success for some language pairs and domains. Consequently,
+professional translators find themselves engaged with a new paradigm, which is
+at least as disruptive as the translation memory revolution that took place in the
+1990s. An uneasy symbiosis has emerged between the professional translator
+and the machine, with organisational and technological aspects potentially
+playing a significant role in the acceptance or rejection of the technology. While
+professional translators struggle with the new paradigm, consumers of content
+find themselves in a position where they can translate at the click of a button, at
+least for gisting purposes. The growth of machine translation has, therefore,
+impacted many. This talk will focus on machine translation from a cognitive
+ergonomic viewpoint moving through the stages of MT evaluation, to post-
+editing and its support technologies, to usability assessment for end users.
+
+### Speaker Bio
+
+Sharon O'Brien is a senior lecturer in translation and language technology in the
+School of Applied Language and Intercultural Studies, Dublin City University. Her
+research to date has focused on the interaction between translators and
+technology (including Translation Memory and Machine Translation), cognitive
+aspects of translation, research methods, including eye tracking and keyboard
+logging, localisation and content authoring. She is Director of the Centre for
+Translation and Textual Studies (www.ctts.dcu.ie) and a funded investigator in
+the cross-institutional research centre Adapt (www.cngl.ie). She previously
+worked as a language technology specialist in the localisation industry.
