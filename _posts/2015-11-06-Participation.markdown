@@ -24,8 +24,11 @@ This expert workshop agenda will include position papers and experience reports 
 
 ## How To Register
 
-Registration is free, please send an email to [dariahtdawg@gmail.com](mailto:dariahtdawg@gmail.com?Subject=Expert+%20+Workshop+%20+Dublin+%20+Participation) to inform us
-of your participation.
+Registration is free,
+You can register on the [Eventbrite Event Page](http://dariah-tda-workshop15.eventbrite.com)
+
+For any queries, please do email
+[dariahtdawg@gmail.com](mailto:dariahtdawg@gmail.com)
 
 *Please include any dietary, access or other requirements
 in your email*
