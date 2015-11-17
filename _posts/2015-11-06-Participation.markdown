@@ -56,6 +56,7 @@ in your email*
 
 * Allen Riddell and Karina van Dalen-Oskam [Reader roles and the literary field: analyzing the results of a large survey]({{ site.baseurl}}assets/cfp/Abstract_Dublin_Allen_Karina.pdf)
 * Gary Munnelly​, Alexander O’Connor​, Jennifer Edmond​, and Séamus Lawless [Finding Meaning in the Chaos. Establishing Corpus Size Limits for Unsupervised Semantic Linking]({{ site.baseurl}}assets/cfp/DARIAHSubmission.pdf)
+* Susan Leavy [Detecting Gender Bias in the Coverage of Politicians in Irish Newspapers Using Automated Text Classification]({{ site.baseurl}}assets/cfp/DariahWorkship_AbstractSubmission_SLeavy.pdf)
 * Carsten Schnober and Iryna Gurevych [Extrinsic Evaluation of Topic Models on Unknown Corpora]({{ site.baseurl}}assets/cfp/evaluating_tms.pdf)
 * Maciej Maryl, Maciej Piasecki, and Ksenia Młynarczyk [Text Clustering Methods in Literary Analysis of Weblog Genres]({{ site.baseurl}}assets/cfp/Maryl_Piasecki_Mlynarczyk_Blogs_TDA.pdf)
 * Gregory Grefenstette and Lawrence Muchemi [Extracting Hierarchical Topic Models from the Web for Improving Digital Archive Access]({{ site.baseurl}}assets/cfp/TopicModelExperience.pdf)
