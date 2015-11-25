@@ -37,13 +37,13 @@ in your email*
 
 | Time  | 14<sup>th</sup> December   | 15<sup>th</sup> December |
 |:------|:---------------------------|:-------------------------|
-| 09:30 | Arrival &amp; Registration | Leavy                    |
-| 10:00 | Keynote                    | tba                      |
+| 09:30 | Arrival &amp; Registration | Munelly et al.           |
+| 10:00 | Keynote                    | Jannidis                 |
 | 10:30 | Keynote                    | tba                      |
 | 11:00 | Coffee                     | Coffee                   |
-| 11:30 | Maryl/Piasecki/Młynarczyk  | tba                      |
-| 12:00 | Riddell/Dalen-Oskam        | tba                      |
-| 12:30 | Munelly et al.             | Concluding Remarks       |
+| 11:30 | Maryl/Piasecki/Młynarczyk  | WG planning              |
+| 12:00 | Riddell/Dalen-Oskam        | WG planning              |
+| 12:30 | Leavy                      | Concluding Remarks       |
 | 13:00 | Lunch                      | Lunch &amp; Departure    |
 | 14:00 | Schnober/Gurevych          |                          |
 | 14:30 | Grefenstette/Muchemi       |                          |
@@ -61,6 +61,7 @@ in your email*
 * Maciej Maryl, Maciej Piasecki, and Ksenia Młynarczyk [Text Clustering Methods in Literary Analysis of Weblog Genres]({{ site.baseurl}}assets/cfp/Maryl_Piasecki_Mlynarczyk_Blogs_TDA.pdf)
 * Gregory Grefenstette and Lawrence Muchemi [Extracting Hierarchical Topic Models from the Web for Improving Digital Archive Access]({{ site.baseurl}}assets/cfp/TopicModelExperience.pdf)
 * Maciej Eder, Maciej Piasecki, and Tomasz Walkowiak [WebSty – an Open Stylometric System based on Multilevel Text Analysis]({{ site.baseurl}}assets/cfp/WebSty-TDA15.pdf)
+* Fotis Jannidis The Adaption of Topic Modeling in the Digital Humanities
 
 ## Keynote
 
