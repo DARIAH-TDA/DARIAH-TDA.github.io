@@ -35,22 +35,22 @@ in your email*
 
 ## Timetable
 
-| Time  | 14<sup>th</sup> December   | 15<sup>th</sup> December |
-|:------|:---------------------------|:-------------------------|
-| 09:30 | Arrival &amp; Registration | Munelly et al.           |
-| 10:00 | Keynote                    | Rybicki                  |
-| 10:30 | Keynote                    | Jannidis                 |
-| 11:00 | Coffee                     | Coffee                   |
-| 11:30 | Maryl/Piasecki/Młynarczyk  | WG planning              |
-| 12:00 | Riddell/Dalen-Oskam        | WG planning              |
-| 12:30 | Leavy                      | Concluding Remarks       |
-| 13:00 | Lunch                      | Lunch &amp; Departure    |
-| 14:00 | Schnober/Gurevych          |                          |
-| 14:30 | Grefenstette/Muchemi       |                          |
-| 15:00 | Coffee                     |                          |
-| 15:30 | Eder/Piasecki/Walkowiak    |                          |
-| 16:00 | Panel Discussion           |                          |
-| 17:00 | End of Day 1               |                          |
+| Time  | 14<sup>th</sup> December     | 15<sup>th</sup> December |
+|:------|:-----------------------------|:-------------------------|
+| 09:30 | _Arrival &amp; Registration_ | Munelly et al.           |
+| 10:00 | Keynote                      | Rybicki                  |
+| 10:30 | Keynote                      | Jannidis                 |
+| 11:00 | _Coffee_                     | _Coffee_                 |
+| 11:30 | Maryl/Piasecki/Młynarczyk    | WG planning              |
+| 12:00 | Riddell/Dalen-Oskam          | WG planning              |
+| 12:30 | Leavy                        | Concluding Remarks       |
+| 13:00 | _Lunch_                      | _Lunch &amp; Departure_  |
+| 14:00 | Schnober/Gurevych            |                          |
+| 14:30 | Grefenstette/Muchemi         |                          |
+| 15:00 | _Coffee_                     |                          |
+| 15:30 | Eder/Piasecki/Walkowiak      |                          |
+| 16:00 | Panel Discussion             |                          |
+| 17:00 | _End of Day 1_               |                          |
 
 ## Talk Abstracts
 
