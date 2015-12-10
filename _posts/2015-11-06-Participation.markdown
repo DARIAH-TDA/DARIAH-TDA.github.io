@@ -51,6 +51,7 @@ in your email*
 | 15:30 | Eder/Piasecki/Walkowiak      |                          |
 | 16:00 | Panel Discussion             |                          |
 | 17:00 | _End of Day 1_               |                          |
+|       |                              |                          |
 
 ## Talk Abstracts
 
@@ -61,7 +62,7 @@ in your email*
 * Gregory Grefenstette and Lawrence Muchemi: [Extracting Hierarchical Topic Models from the Web for Improving Digital Archive Access]({{ site.baseurl}}assets/cfp/TopicModelExperience.pdf)
 * Maciej Eder, Maciej Piasecki, and Tomasz Walkowiak: [WebSty – an Open Stylometric System based on Multilevel Text Analysis]({{ site.baseurl}}assets/cfp/WebSty-TDA15.pdf)
 * Gary Munnelly​, Alexander O’Connor​, Jennifer Edmond​, and Séamus Lawless: [Finding Meaning in the Chaos. Establishing Corpus Size Limits for Unsupervised Semantic Linking]({{ site.baseurl}}assets/cfp/DARIAHSubmission.pdf)
-* Jan Rybicki: Machines Reading Translations: Old Questions, New Tools?
+* Jan Rybicki: Translation as Text Reuse: A Quantitative Approach
 * Fotis Jannidis: The Adaption of Topic Modeling in the Digital Humanities
 
 ## Keynote
