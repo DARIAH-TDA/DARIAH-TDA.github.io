@@ -95,3 +95,14 @@ logging, localisation and content authoring. She is Director of the Centre for
 Translation and Textual Studies (www.ctts.dcu.ie) and a funded investigator in
 the cross-institutional research centre Adapt (www.cngl.ie). She previously
 worked as a language technology specialist in the localisation industry.
+
+
+## Meal Details
+
+A reservation has been made at <a href="http://www.brasseriesixty6.com/">Brasserie Sixty6</a> in Dublin City
+Centre at <strong>19:00</strong> on Monday night.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2382.043350513969!2d-6.266906684627369!3d53.34248018270256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48670e9d07596c25%3A0x8147b7b6802cd3dc!2sBrasserie+Sixty6!5e0!3m2!1sen!2sie!4v1450107523759" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+For public transport, you can take Bus route <strong>9</strong> to Exchequer
+Street.
