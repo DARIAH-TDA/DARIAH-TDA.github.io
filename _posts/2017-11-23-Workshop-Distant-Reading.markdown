@@ -1,3 +1,9 @@
+---
+layout: post
+title:  International expert workshop on *Distant Reading in Literary Texts*
+categories: meeting activity workshop
+---
+
 # International expert workshop on "Distant Reading in Literary Texts" #
 
 The **DARIAH-EU** working group on "Text and Data Analytics" organizes an expert workshop on "Distant Reading in Literary Text" on
