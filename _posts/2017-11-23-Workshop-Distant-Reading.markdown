@@ -17,7 +17,7 @@ Leading international experts in the computational analysis of literary texts wi
 - Jan Rybicki (Pedagogical University of Kraków, Poland): *Is Russian Literature Distant? Reading Russians with Networks*
 - Fotis Jannidis (University of Würzburg, Germany): *Complexity.*
 - Tomoji Tabata (University of Osaka, Japan): *Through different routes to the same landscape: What do text-clusterings tell us about style?* 
-- Christof Schöch (Univerisity of Trier, Germany): *Burrows' Zeta: Reimplementation and Extension*
+- Christof Schöch (University of Trier, Germany): *Burrows' Zeta: Reimplementation and Extension*
 - Karina van Dalen-Oskam (University of Amsterdam, Netherlands): *Fifty Shades of Style* 
 
 Other potential presenters will be Mark Andrew Algee-Hewitt (Stanford University, USA), Maciej Eder (Pedagogical University of Kraków, Poland) and Mike Kestemont (University of Antwerp, Belgium).
