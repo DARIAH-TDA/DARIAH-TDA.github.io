@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expert Workshop on Topic Models and Corpus Analysis: Call for Participation"
+title:  "Expert Workshop on Topic Models and Corpus Analysis"
 categories: meeting activity workshop
 ---
 
