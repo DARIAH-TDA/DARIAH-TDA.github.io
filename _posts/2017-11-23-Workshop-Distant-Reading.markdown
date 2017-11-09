@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  International expert workshop on *Distant Reading in Literary Texts*
+title:  Expert workshop on Distant Reading in Literary Texts
 categories: meeting activity workshop
 ---
 
