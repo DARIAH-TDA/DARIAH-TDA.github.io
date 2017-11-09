@@ -24,13 +24,11 @@ Other potential presenters will be Mark Andrew Algee-Hewitt (Stanford University
 
 The event will be open to the public. Interested listeners are welcome to attend and participate in discussions. If you intend to participate in the event, we kindly ask you to give us informal notice *via* email for organisational reasons. The workshop is funded by DARIAH-EU.
 
-### Details ###
-
-#### Dates ####
+### Dates ###
 
 The workshop be held on Thursday afternoon (23. November) from 13:00-18:00 and Friday morning (24. November) from 9:00-14:00.
 
-#### Location ####
+### Location ###
 
 The location will be the University of Würzburg's
 
@@ -39,7 +37,7 @@ Room 01.102
 Josef-Martin-Weg
 97074 Würzburg
 
-#### Contact ####
+### Contact ###
 
 Steffen Pielström
 *via* **pielstroem@biozentrum.uni-wuerzburg.de**
