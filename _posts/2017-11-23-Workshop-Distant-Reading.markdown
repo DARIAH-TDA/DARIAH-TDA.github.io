@@ -30,14 +30,14 @@ The workshop be held on Thursday afternoon (23. November) from 13:00-18:00 and F
 
 ### Location ###
 
-The location will be the University of Würzburg's
+The location will be the University of Würzburg's    
 
-"Bibliotheks- und Seminarzentrum", 
-Room 01.102
-Josef-Martin-Weg
-97074 Würzburg
+"Bibliotheks- und Seminarzentrum",     
+Room 01.102    
+Josef-Martin-Weg    
+97074 Würzburg    
 
 ### Contact ###
 
-Steffen Pielström
-*via* **pielstroem@biozentrum.uni-wuerzburg.de**
+Steffen Pielström *via*     
+**pielstroem@biozentrum.uni-wuerzburg.de**
