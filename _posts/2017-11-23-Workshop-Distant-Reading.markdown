@@ -13,7 +13,7 @@ The **DARIAH-EU** working group on "Text and Data Analytics" organizes an expert
 Leading international experts in the computational analysis of literary texts will present examples of their latest research. The event will be dedicated to provide a platform for discussing the recent developments in the field. Presentations include:
 
 - Ted Underwood (University of Illinois, USA): *Distant Reading and the Problem of Perspective*
-- Thomas Weitin (University of Darmstadt, Germany): *Reading at Scale*
+- Thomas Weitin (University of Darmstadt, Germany): *Reading at Scale - novella collections of the 19th century*
 - Jan Rybicki (Pedagogical University of Kraków, Poland): *Is Russian Literature Distant? Reading Russians with Networks*
 - Fotis Jannidis (University of Würzburg, Germany): *Complexity.*
 - Tomoji Tabata (University of Osaka, Japan): *Through different routes to the same landscape: What do text-clusterings tell us about style?* 
