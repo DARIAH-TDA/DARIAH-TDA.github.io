@@ -29,7 +29,7 @@ The workshop is open to scholars from all backgrounds with an interest in semant
 
 The workshop is organized by the **DARIAH-EU** working group on "Text and Data Analytics" (@dariahtdawg) and **DARIAH-DE** Cluster "Quantitative Data Analysis", sponsored by the German Federal Ministry of Education and Research (BMBF), in collaboration with the scientific community **Digital Humanities Flanders** (DHuF), sponsored by the Research Foundation Flanders (FWO).
 
-###*Convenors*###
+### *Convenors* ###
 
 **Fotis Jannidis (University of Würzburg, Germany)**
 
@@ -65,4 +65,4 @@ Mike is a tenure track research professor in the department of Literature the Un
 
 **Mimno,David**(2012): „Computational Historiography: Data Mining in a Century ofClassics Journals“, in *ACM Journal of Computing in Cultural Heritage*5.
 
-**Schoech,Christof**(2017):„Topic Modeling Genre: An Exploration of French Classical andEnlightenment Drama“, *DigitalHumanities Quarterly* 11, s.p.
+**Schoech,Christof**(2017): „Topic Modeling Genre: An Exploration of French Classical andEnlightenment Drama“, *DigitalHumanities Quarterly* 11, s.p.
