@@ -45,13 +45,13 @@ Mike is a tenure track research professor in the department of Literature the Un
 
 ### Literature ###
 
-**Bamman,D./ Underwood, T./ Smith, N. A. **(2014):„A Bayesian Mixed Effects Model of Literary Character“, in*Proceedingsof ACL*.
+**Bamman,D./ Underwood, T./ Smith, N. A.** (2014):„A Bayesian Mixed Effects Model of Literary Character“, in*Proceedingsof ACL*.
 
 **Blei,David**(2012):„Probabilistic Topic Models“, in *Communications of the ACM* 55, 77-84.
 
 **Bolukbasi,T./ Chang, K. W./ Zou, J./ Saligrama, V./ Kalai, A.**(2016): „Quantifying and Reducing Stereotypes in Word Embeddings“,in *arXiv:1606.06121*.
 
-**Chang,J./ Gerrish, S./ Sang,C./ Boyd-Graber, J. L./ Blei, D. M. **(2009):„Reading Tea Leaves: How Humans Interpret Topic Models“, in Proceedings of NIPS, 288-296.
+**Chang,J./ Gerrish, S./ Sang,C./ Boyd-Graber, J. L./ Blei, D. M.** (2009):„Reading Tea Leaves: How Humans Interpret Topic Models“, in Proceedings of NIPS, 288-296.
 
 **Hamilton,W. L./ Leskovec, J./ Jurafsky, D.**(2016): „Diachronic Word Embeddings Reveal Statistical Laws ofSemantic Change“, in *Proceedingsof ACL*.
 
