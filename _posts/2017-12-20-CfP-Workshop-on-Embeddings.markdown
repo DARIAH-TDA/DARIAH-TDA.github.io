@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Call for Papers: Embedded Humanities 
+title:  Call for Papers - Embedded Humanities 
 categories: meeting activity workshop
 ---
 
