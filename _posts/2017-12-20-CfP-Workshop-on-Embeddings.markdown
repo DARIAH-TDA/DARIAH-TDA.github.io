@@ -25,7 +25,7 @@ The workshop is open to scholars from all backgrounds with an interest in semant
 - modeling units beyond words;
 - improving the theoretical understanding of word embeddings;
 
-**Abstracts** (between 250 and 300 words, not including references) can be submitted to mike.kestemont@uantwerp.be. The workshop also explicitly welcomes submissions presenting previously published research which is of interest to the DH community (although this work should not overlap strongly with work presented at the main conference).
+**Abstracts** (between 250 and 300 words, not including references) can be submitted **until 31. January** to mike.kestemont@uantwerp.be. The workshop also explicitly welcomes submissions presenting previously published research which is of interest to the DH community (although this work should not overlap strongly with work presented at the main conference).
 
 The workshop is organized by the **DARIAH-EU** working group on "Text and Data Analytics" (@dariahtdawg) and **DARIAH-DE** Cluster "Quantitative Data Analysis", sponsored by the German Federal Ministry of Education and Research (BMBF), in collaboration with the scientific community **Digital Humanities Flanders** (DHuF), sponsored by the Research Foundation Flanders (FWO).
 
