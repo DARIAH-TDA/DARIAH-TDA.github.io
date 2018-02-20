@@ -57,7 +57,7 @@ Mike is a tenure track research professor in the department of Literature the Un
     * *14:30-15:00*: 'What's in a Topic Model? Foundations for quantitative literary methods' (Fabio Ciotti)
     * *15:00-15:30*: TBA
 - 15:30-16:00: Coffee break
-- 16:00-17:30: Hands-on tutorial on topic modelling
+- 16:00-17:30: Hands-on tutorial on LDA topic modelling via a Graphical User Interface
 
 
 ### Literature ###
