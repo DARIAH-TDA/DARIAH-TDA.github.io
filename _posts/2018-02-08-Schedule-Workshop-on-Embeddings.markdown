@@ -57,7 +57,21 @@ Mike is a tenure track research professor in the department of Literature the Un
     * *14:30-15:00*: 'What's in a Topic Model? Foundations for quantitative literary methods' (Fabio Ciotti)
     * *15:00-15:30*: TBA
 - 15:30-16:00: Coffee break
-- 16:00-17:30: Hands-on tutorial on LDA topic modelling via a Graphical User Interface
+- 16:00-17:30: Hands-on tutorial on LDA topic modelling via a Graphical User Interface (Steffen Pielström)
+
+### Keynote details
+#### The Long Rise of Distributed Representations* (David Bamman, UC Berkeley)
+
+Distributed representations of words -- where a word is represented not by its identity but rather by the distributional properties of the contexts it appears in -- are in many ways responsible for the significant gains in accuracy that many applications in natural language processing have witnessed over the past five years, and have driven many interesting applications in the computational humanities.  While widespread interest in such representations took off in 2013 with the release of word2vec (Mikolov 2013), distributed representations have a much longer history, arising out of an appreciation of context advocated not only by Wittgenstein, Harris and Firth but also by a millenium of lexicographers and concordance-makers; computational models explicitly including distributed representations have been informing research in NLP and information retrieval for the past thirty years.      
+
+In this talk, I'll outline the history of distributed representations of words to their height today, and unpack what's new about contemporary (neural) methods of learning such representations compared to previous approaches (including what's the same).  By focusing on the fundamentals of representation learning, I'll also discuss how we can incorporate other forms of extra-linguistic information into the representation for a word (such as time, geographical location, or author identity) and use that more complex representation for linguistic reasoning as well.
+
+
+### Tutorial description
+
+Using LDA (Latent Dirichlet Allocation) for analyzing the content structure of digital text collections is a possibility, that aroused the interest of many digital humanists in the recent years. With the aim of lowering the threshold to try out LDA, we developed the DARIAH TopicsExplorer, a standalone GUI tool based on the DARIAH Topics
+library that allows to perform simple LDA topic modeling work flows without writing a single line of code. The aim of the hands-on session will be to demonstrate the current
+functionalities of the TopicsExplorer and give participants the possibility to make their first direct experiences with LDA topic modeling. Participants will be instructed to do their own first analyses on both example data and their own text collections.
 
 
 ### Literature ###
