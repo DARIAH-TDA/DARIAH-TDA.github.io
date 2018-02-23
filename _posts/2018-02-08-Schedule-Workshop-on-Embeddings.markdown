@@ -50,12 +50,11 @@ Mike is a tenure track research professor in the department of Literature the Un
 - *11:00-12:30*: Paper session 1 (chair: Mike Kestemont):
     * *11:00-11:30*: 'Using  Distributional Models in Lexicology and Linguistics' (Marc Kupietz, Peter Fankhauser, Rainer Perkuhn and Cyril Belica)
     * *11:30-12:00*: 'Modelling the Muggles. Applying distributional semantics to the Harry Potter novels by J.K. Rowling' (Mike Kestemont, Vanessa Joosen and Dirk van Hulle)
-    * *12:00-12:30*: 'Using word embeddings for digital conceptual history' (Pim Huijnen, Jaap Verheul, Melvin Wevers, Tom Kenter & Joris van Eijnatten)
+    * *12:00-12:30*: 'What's in a Topic Model? Foundations for quantitative literary methods' (Fabio Ciotti)
 - *12:30-14:00*: Lunch break
 - *14:00-15:30*: Paper session 2 (chair: Steffen Pielström):
-    * *14:00-14:30*: Using Word Embeddings to Support Methods of Quantitative Text Analysis (Christof Schöch)
-    * *14:30-15:00*: 'What's in a Topic Model? Foundations for quantitative literary methods' (Fabio Ciotti)
-    * *15:00-15:30*: TBA
+    * *14:00-14:45*: Using Word Embeddings to Support Methods of Quantitative Text Analysis (Christof Schöch)
+    * *14:45-15:30*: 'Using word embeddings for digital conceptual history' (Pim Huijnen, Jaap Verheul, Melvin Wevers, Tom Kenter & Joris van Eijnatten)
 - 15:30-16:00: Coffee break
 - 16:00-17:30: Hands-on tutorial on LDA topic modelling via a Graphical User Interface (Steffen Pielström)
 
