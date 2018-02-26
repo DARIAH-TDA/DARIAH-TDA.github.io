@@ -56,7 +56,7 @@ Mike is a tenure track research professor in the department of Literature the Un
     * *14:00-14:45*: Using Word Embeddings to Support Methods of Quantitative Text Analysis (Christof Schöch)
     * *14:45-15:30*: 'Using word embeddings for digital conceptual history' (Pim Huijnen, Jaap Verheul, Melvin Wevers, Tom Kenter & Joris van Eijnatten)
 - 15:30-16:00: Coffee break
-- 16:00-17:30: Hands-on tutorial on LDA topic modelling via a Graphical User Interface (Steffen Pielström)
+- 16:00-17:30: Hands-on tutorial on LDA topic modelling via a Graphical User Interface (Steffen Pielström & Severin Simmler)
 
 ### Keynote details
 #### The Long Rise of Distributed Representations* (David Bamman, UC Berkeley)
