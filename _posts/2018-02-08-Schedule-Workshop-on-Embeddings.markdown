@@ -44,8 +44,8 @@ Mike is a tenure track research professor in the department of Literature the Un
 (Consult the [main conference program](http://dhd2018.uni-koeln.de/wp-content/uploads/DHd2018-Veranstaltungsprogramm.pdf) for the location, which might subject to last-minute changes.)
 
 - *09:00-10:30*:
-    * *09:00-09:30*: Keynote lecture: 'The Long Rise of Distributed Representations' (David Bamman, UC Berkeley)
-    * *09:30-10:30*: 'Word embeddings and text semantics' (Fotis Jannidis)
+    * *09:00-10:00*: Keynote lecture: 'The Long Rise of Distributed Representations' (David Bamman, UC Berkeley)
+    * *10:00-10:30*: 'Word embeddings and text semantics' (Fotis Jannidis)
 - *10:30-11:00*: Coffee break
 - *11:00-12:30*: Paper session 1 (chair: Mike Kestemont):
     * *11:00-11:30*: 'Using  Distributional Models in Lexicology and Linguistics' (Marc Kupietz, Peter Fankhauser, Rainer Perkuhn and Cyril Belica)
