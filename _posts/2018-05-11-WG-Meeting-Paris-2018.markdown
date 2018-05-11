@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  WG Meeting at the 2018 DARIAH Annual Event
-Digital Humanities
 categories: meeting activity workshop
 ---
 
