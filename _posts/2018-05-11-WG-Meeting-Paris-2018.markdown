@@ -13,5 +13,5 @@ During the upcoming DARIAH Annual Event in Paris (https://www.dariah.eu/activiti
 
 - *11:00-11:30*: 'Word embeddings and text semantics' (Fotis Jannidis)
 - *11:30-12:00*: 'Harry Potter as a case study in teaching digital text analysis' (Mike Kestemont)
-- *12:00-12:30*: Using Word Embeddings to Support Methods of Quantitative Text Analysis (Christof Schöch)
-- *12:30-13:00*: DARIAH Topics Explorer: A GUI Tool for LDA Topic Modeling (Steffen Pielström)
+- *12:00-12:30*: 'Distant Reading for European Literary History. A COST Action' (Christof Schöch)
+- *12:30-13:00*: 'DARIAH Topics Explorer: A GUI Tool for LDA Topic Modeling' (Steffen Pielström)
